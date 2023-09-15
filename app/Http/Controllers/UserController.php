@@ -26,5 +26,5 @@ class UserController extends Controller
         return view('web.data');
     }
 
-    //
+    // Hello World!!!
 }
