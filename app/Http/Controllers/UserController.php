@@ -27,4 +27,6 @@ class UserController extends Controller
     }
 
     // Say Hello World!
+
+    // Hello World!
 }
