@@ -25,4 +25,6 @@ class UserController extends Controller
     public function showDataTables() {
         return view('web.data');
     }
+
+    // Hello World!!!
 }
